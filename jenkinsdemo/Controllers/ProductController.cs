@@ -19,5 +19,12 @@ namespace jenkinsdemo.Controllers
             m.Prodname = "ABC";
             return View();
         }
+        public ActionResult Add()
+
+        {
+           
+
+            return View();
+        }
     }
 }
